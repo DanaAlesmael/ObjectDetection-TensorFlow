@@ -11,7 +11,7 @@
 
 ![](images/2.png)
 
-![](images/3.png)
+![](images/4.png)
 
 * Check if the installation process was done correctly by opening idel and typing (import tensorflow as tf). No error messages should be shown. 
 
