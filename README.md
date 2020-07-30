@@ -13,5 +13,9 @@
 
 ![](images/4.png)
 
-* Check if the installation process was done correctly by opening idel and typing (import tensorflow as tf). No error messages should be shown. 
+* Check if the installation process was done correctly by opening idle and typing (import tensorflow as tf). No error messages should be shown. If by any chance the program did not identify tensorflow, as shown in the figure below, various steps should be followed. 
 
+![](images/error.png)
+
+Steps: 
+1. 
