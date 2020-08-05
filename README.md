@@ -17,5 +17,3 @@
 
 ![](images/error.png)
 
-Steps: 
-1. 
